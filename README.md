@@ -5,4 +5,4 @@ Database Contains two tables and one view:
 - ContactNumber View displayed all contacts with its numbers.
 
 Application setup:
-this application needs SQL server and the database file to be attached to MS SQL server after that it can be run using Visual Studio.
+this application needs SQL server and the database file attached to MS SQL server after that it can be run using Visual Studio.
