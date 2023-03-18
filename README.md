@@ -1,7 +1,7 @@
 # PhoneBook-Task
 Database Contains two tables and one view:
 - Contact table contains: contactId(primary key), contactName (Unique), and maxnumber.
-- Number table containts: NumberID (primary key), Number, contactId (reference contact table becuase the relation between the two tables is one-to-many).
+- Number table containts: NumberID (primary key), Number, contactId (references contact table becuase the relation between the two tables is one-to-many).
 - ContactNumber View displayed all contacts with its numbers.
 
 Application setup:
